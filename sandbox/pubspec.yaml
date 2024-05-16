@@ -15,6 +15,10 @@ dependencies:
 
   cupertino_icons: ^1.0.6
 
+  json:
+    path: ../json
+  http: ^1.2.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
